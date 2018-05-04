@@ -12,7 +12,7 @@
     $ git --version
       git version 2.14.1
 
-# Start build webflux-kotlin
+# Start building webflux-kotlin
     1. $ git clone https://github.com/zicat/webflux-kotlin.git
     2. $ cd webflux-kotlin
     3. $ mvn clean install
