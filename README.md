@@ -37,7 +37,7 @@ Your first webflux-kotlin restfull api is finished!
         -DartifactId=${your_artifact_id} \
         -Dversion=${your_version}
     3. $ cd ${your_artifact_id}
-    4. mvn clean install
+    4. $ mvn clean install
     5. $ mvn spring-boot:run
     6. open broser and input url
         http://localhost:8080/product?productId=1&description=a
