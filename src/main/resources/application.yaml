@@ -1,0 +1,5 @@
+server:
+  port: 8080
+  loopThreads: 10
+reactor:
+  workThreads: 500
